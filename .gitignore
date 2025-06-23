@@ -2,3 +2,4 @@
 .venv/
 .test-results/
 .tests/__pycache/
+reports/
